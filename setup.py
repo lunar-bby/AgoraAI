@@ -7,11 +7,11 @@ setup(
     name="agoraai",
     version="0.1.0",
     author="AgoraAI Team",
-    author_email="contact@agoraai.org",
+    author_email="twitter@agorai.market",
     description="A framework for creating decentralized AI agent marketplaces",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/AgoraAI/agoraai",
+    url="https://github.com/lunar-bby/agoraai",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
