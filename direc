@@ -1,0 +1,51 @@
+agoraai/
+├── agoraai/
+│   ├── __init__.py
+│   ├── agent/
+│   │   ├── __init__.py
+│   │   ├── base.py           # Base agent class
+│   │   ├── types.py          # Different agent types/roles
+│   │   ├── capabilities.py   # Agent capability definitions
+│   │   └── registry.py       # Agent registration and discovery
+│   ├── marketplace/
+│   │   ├── __init__.py
+│   │   ├── core.py          # Core marketplace functionality
+│   │   ├── matching.py      # Service matching and delegation
+│   │   ├── reputation.py    # Reputation scoring system
+│   │   └── discovery.py     # Service discovery mechanisms
+│   ├── blockchain/
+│   │   ├── __init__.py
+│   │   ├── core.py          # Core blockchain functionality
+│   │   ├── contracts.py     # Smart contract interfaces
+│   │   └── validation.py    # Transaction validation
+│   ├── communication/
+│   │   ├── __init__.py
+│   │   ├── protocol.py      # Communication protocol definitions
+│   │   ├── messaging.py     # Agent messaging system
+│   │   └── networking.py    # Network layer implementation
+│   ├── security/
+│   │   ├── __init__.py
+│   │   ├── authentication.py # Agent authentication
+│   │   ├── encryption.py     # Data encryption utilities
+│   │   └── permissions.py    # Access control system
+│   └── utils/
+│       ├── __init__.py
+│       ├── config.py        # Configuration management
+│       ├── logging.py       # Logging utilities
+│       └── serialization.py # Data serialization
+├── examples/
+│   ├── simple_marketplace.py
+│   ├── custom_agent.py
+│   └── blockchain_integration.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_agent/
+│   ├── test_marketplace/
+│   ├── test_blockchain/
+│   ├── test_communication/
+│   └── test_security/
+├── setup.py
+├── pyproject.toml
+├── requirements.txt
+├── README.md
+└── LICENSE
