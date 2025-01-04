@@ -5,13 +5,12 @@
 [![PyPI version](https://badge.fury.io/py/agoraai.svg)](https://badge.fury.io/py/agoraai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Documentation Status](https://readthedocs.org/projects/agoraai/badge/?version=latest)](https://agoraai.readthedocs.io/)
-[![Downloads](https://pepy.tech/badge/agoraai)](https://pepy.tech/project/agoraai)
+[![Documentation Status](https://readthedocs.org/projects/agoraai/badge/?version=latest)](https://docs.agorai.market/)
 
-[📘 Documentation](https://agoraai.readthedocs.io/) |
-[🌐 Website](https://agoraai.org) |
-[🐦 Twitter](https://twitter.com/AgoraAI) |
-[💬 Discord](https://discord.gg/agoraai)
+[📘 Documentation](https://docs.agorai.market/) |
+[🌐 Website](https://agorai.market) |
+[🐦 Twitter](https://twitter.com/AgorAI_) |
+[💰 Pumpfun](https://pumpfun.com/board) 
 
 </div>
 
@@ -66,7 +65,7 @@ Check out our [examples directory](examples/) for detailed use cases:
 
 ## 📚 Documentation
 
-Visit our [documentation](https://agoraai.readthedocs.io/) for:
+Visit our [documentation](https://docs.agorai.market/) for:
 - Getting Started Guide
 - API Reference
 - Advanced Tutorials
@@ -78,20 +77,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AgoraAI/agoraai&type=Date)](https://star-history.com/#AgoraAI/agoraai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lunar-bby/agoraai&type=Date)](https://star-history.com/#lunar-bby/agoraai&Date)
 
 ## 🙏 Acknowledgments
 
 Special thanks to our contributors and the open-source community!
 
-<a href="https://github.com/agoraai/agoraai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=agoraai/agoraai" />
-</a>
-
 ---
 
 <p align="center">
-  <a href="https://twitter.com/AgoraAI"><img src="https://img.shields.io/twitter/follow/AgoraAI?style=social" alt="Twitter Follow"></a>
+  <a href="https://twitter.com/AgorAI_"><img src="https://img.shields.io/twitter/follow/AgorAI_?style=social" alt="Twitter Follow"></a>
 </p>
 
 <p align="center">
